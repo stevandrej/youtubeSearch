@@ -1,0 +1,1 @@
+{"version":3,"sources":["Style.css"],"names":[],"mappings":"AAAA,UACI,qBACJ,CAEA,YACI,eACJ,CAEA,aAEI,cACJ","file":"main.852e89c6.chunk.css","sourcesContent":["html, body{\r\n    background-color:#eee;\r\n}\r\n\r\n#search-bar{\r\n    margin-top:15px;\r\n}\r\n\r\n.item-cursor\r\n{\r\n    cursor: pointer;\r\n}"]}

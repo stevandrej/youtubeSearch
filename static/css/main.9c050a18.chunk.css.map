@@ -1,1 +1,0 @@
-{"version":3,"sources":["Style.css"],"names":[],"mappings":"AAAA,UACI,qBACJ,CAEA,YACI,eACJ","file":"main.9c050a18.chunk.css","sourcesContent":["html, body{\r\n    background-color:#eee;\r\n}\r\n\r\n#search-bar{\r\n    margin-top:15px;\r\n}"]}
