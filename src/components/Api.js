@@ -1,5 +1,4 @@
 import axios from 'axios';
-const KEY = 'AIzaSyBhl8HEyfNWyrELRGJxA--4yxHCKClY4f0';
 
 export default axios.create({
     baseURL:`https://www.googleapis.com/youtube/v3/search`,
@@ -8,6 +7,6 @@ export default axios.create({
         maxResults: 8,
         q:'',
         type:'video',
-        key: KEY
+        key: process.env.REACT_APP_VIDEO_API_KEY
     }
 });

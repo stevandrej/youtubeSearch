@@ -5,3 +5,8 @@ html, body{
 #search-bar{
     margin-top:15px;
 }
+
+.item-cursor
+{
+    cursor: pointer;
+}
