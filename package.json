@@ -1,5 +1,6 @@
 {
   "name": "youtubeSearch",
+  "homepage":"https://stevandrej.github.io/youtubeSearch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
